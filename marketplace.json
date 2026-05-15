@@ -1,0 +1,9 @@
+{
+  "name": "lx-0-public-plugins",
+  "description": "lx-0's PUBLIC plugin catalog for Claude Code and Cursor.",
+  "owner": {
+    "name": "lx-0",
+    "url": "https://github.com/lx-0"
+  },
+  "plugins": []
+}
