@@ -53,7 +53,13 @@ No auth required -- this catalog is public.
 
 ## What's in the catalog
 
-Empty for now. Add plugins:
+### External
+
+| Plugin | Source | Purpose |
+|---|---|---|
+| sunoflow | github `lx-0/SunoFlow` | SunoFlow MCP skill -- AI music generation, lyrics, sound effects, stems, music videos, playlist mgmt |
+
+### Adding more
 
 - **Standalone skills** -- drop `SKILL.md` (+ optional `.plugin.json`) into `./skills/<category>/<slug>/`
 - **Bundle plugins** -- create `./plugins/<name>/plugin.json` plus optional `skills/`
