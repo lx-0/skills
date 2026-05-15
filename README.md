@@ -57,6 +57,7 @@ No auth required -- this catalog is public.
 
 | Plugin | Source | Purpose |
 |---|---|---|
+| llm-wiki | github `lx-0/llm-wiki` | Cross-project bridge to a local LLM-wiki -- read, diagnose, contribute, maintain, report engine bugs |
 | sunoflow | github `lx-0/SunoFlow` | SunoFlow MCP skill -- AI music generation, lyrics, sound effects, stems, music videos, playlist mgmt |
 
 ### Adding more

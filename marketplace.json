@@ -7,6 +7,30 @@
   },
   "plugins": [
     {
+      "name": "llm-wiki",
+      "description": "Cross-project bridge to a locally-installed LLM-wiki. Read your compiled knowledge from any project, diagnose pipeline health, contribute back (capture, ingest, hard facts), run maintenance, or report engine bugs upstream. Ships the use-llm-wiki skill; the wiki CLI itself comes from the llm-wiki engine.",
+      "source": {
+        "source": "github",
+        "repo": "lx-0/llm-wiki"
+      },
+      "author": {
+        "name": "lx-0",
+        "url": "https://github.com/lx-0"
+      },
+      "homepage": "https://github.com/lx-0/llm-wiki",
+      "repository": "https://github.com/lx-0/llm-wiki",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "obsidian",
+        "knowledge-base",
+        "personal-wiki",
+        "second-brain",
+        "rag-alternative",
+        "llm-wiki"
+      ]
+    },
+    {
       "name": "sunoflow",
       "description": "AI music creation and management via the SunoFlow MCP server. Song generation, lyrics, sound effects, playlist management, stem separation, music videos, audio exports. Connects to a self-hosted or hosted SunoFlow instance over MCP stdio transport.",
       "source": {
