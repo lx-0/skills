@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" width="90" alt="lx-0" />
+  <!-- <img src="logo.svg" width="90" alt="lx-0" /> -->
 
   <h1>skills</h1>
 
