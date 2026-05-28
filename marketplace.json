@@ -32,7 +32,7 @@
     },
     {
       "name": "sunoflow",
-      "description": "Generates and manages AI music via the SunoFlow MCP server (Suno API behind a credit-managed backend). Covers song + sounds + lyrics generation, style boosting, song extension, stem separation, WAV/MIDI conversion, music-video + cover-art rendering, and playlist management. Connects to a self-hosted or hosted SunoFlow instance over MCP stdio transport.",
+      "description": "Generates and manages AI music via the SunoFlow MCP server (Suno API behind a credit-managed backend). Covers song + sounds + lyrics generation, style boosting, song extension, stem separation, WAV/MIDI conversion, music-video + cover-art rendering, and playlist management. Ships a remote Streamable-HTTP MCP server hosted at sunoflow.app/api/mcp -- set SUNOFLOW_API_KEY and the plugin connects automatically. Self-hosters can override the endpoint via SUNOFLOW_BASE_URL.",
       "source": {
         "source": "github",
         "repo": "lx-0/SunoFlow"
