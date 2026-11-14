@@ -58,7 +58,7 @@ No auth required -- this catalog is public.
 | Plugin | Source | Purpose |
 |---|---|---|
 | llm-wiki | github `lx-0/llm-wiki` | Cross-project bridge to a local LLM-wiki -- read, diagnose, contribute, maintain, report engine bugs |
-| sunoflow | github `lx-0/SunoFlow` | SunoFlow plugin -- AI music gen, lyrics, sounds, stems, music videos, playlist mgmt. Remote Streamable-HTTP MCP (set SUNOFLOW_API_KEY, connects to sunoflow.app/api/mcp) |
+| sunoflow | git-subdir `lx-0/ZunFlow` `plugin/` | SunoFlow plugin -- AI music gen, lyrics, sounds, stems, music videos, playlist mgmt. Remote Streamable-HTTP MCP (set SUNOFLOW_API_KEY, connects to sunoflow.app/api/mcp) |
 
 ### Adding more
 
